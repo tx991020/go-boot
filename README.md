@@ -1,2 +1,0 @@
-# go-boot
-api-generater
